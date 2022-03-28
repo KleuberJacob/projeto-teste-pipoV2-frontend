@@ -3,6 +3,13 @@
 <p>É um aplicação frontend que consome dados da aplicação backend <i>projeto-teste-pipoV2-backend</i>, tornando-se reponsável através de uma interface minimalista na visualização das empresas cadastradas no sistema, além da possibilidade de visualizar quais planos de saúde disponibilizados aos seus colaboradores(saúde, dental, mental). Possibilidade de inserção e exclusão de colaborares nas empresas de acordo com os dados solicitados pelos planos contratados pela companhia. Esta aplicação foi desenvolvida com o objetivo de teste prático para empresa Pippo Saúde, além de colocar em prática conceitos de implemntação de SPA utilizando React(Hooks e etc.). Além disso, o uso da tecnologia: Bootstrap como Framework CSS.</p>
 
 ## Imagens
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/55764961/160433252-095bcca2-1c40-4e33-bd77-115e09a6ae56.png" width="600px"/>
+</div>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/55764961/160433252-095bcca2-1c40-4e33-bd77-115e09a6ae56.png" width="600px"/>
+</div>
 
 
 ## Features
