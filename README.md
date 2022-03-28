@@ -11,6 +11,10 @@
     <img src="https://user-images.githubusercontent.com/55764961/160434177-204d9beb-c8e7-4ad2-979b-929d32bc209e.png" width="600px"/>
 </div>
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/55764961/160434538-bd6ff2fa-5986-40d3-baba-656c71ebf9cc.png" width="600px"/>
+</div>
+
 
 ## Features
 >* Possibilidade de visualização das empresas previamente cadastradas. 
